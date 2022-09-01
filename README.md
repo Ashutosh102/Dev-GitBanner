@@ -7,7 +7,7 @@
 > <samp>__Step 2__ | Make sure you are in full screen mode for best results.</samp>\
 > <samp>__Step 3__ | Follow this GIF 👇</samp>\
 > </br>
-> ![image](https://i.imgur.com/SlG7LXA.gif)
+
 > </br>
 > <samp>__Step 4__ | Download the generated image using button.</samp>
 
